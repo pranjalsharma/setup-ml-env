@@ -6,13 +6,13 @@ Download Anaconda - https://www.anaconda.com/download/
 Go with the latest stable version of python (Recommended)
 
 ## Step 2 - Create a new Environment
-From start menu locate Conda Prompt. Use Anaconda Prompt to create new environment.
+From start menu locate Conda Prompt. Use Anaconda Prompt to create new environment. <br />
 Copy the following command in Anaconda Prompt.
 ```
 conda create -n ml-env pip python=3.9
 ```
-Here `ml-env` is machine learning environment name.
-This creates a new environment in Anaconda.
+Here `ml-env` is machine learning environment name. <br />
+This creates a new environment in Anaconda. <br />
 To activate environment use the following command:
 ```
 activate ml-env
