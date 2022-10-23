@@ -2,7 +2,7 @@
 Basic Machine Learning Environment set up using Anaconda
 
 ## Step 1 - Download and install Anaconda
-Download Anaconda - https://www.anaconda.com/download/
+Download Anaconda - https://www.anaconda.com/download/ <br />
 Go with the latest stable version of python (Recommended)
 
 ## Step 2 - Create a new Environment
@@ -64,3 +64,5 @@ By default installed with other packages. In-case required use the following com
 ```
 pip install keras
 ```
+
+### END
